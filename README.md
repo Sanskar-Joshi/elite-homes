@@ -32,14 +32,10 @@ A modern, responsive, and interactive Real Estate website built to showcase luxu
 
 ## 💡 Key Learnings
 While building this project, I learned:
-
-How to implement CSS Grid for responsive property layouts.
-
-Using the Intersection Observer API for performance-friendly scroll animations.
-
-Creating a sticky navigation bar that detects scroll position.
-
-Handling mobile navigation states using JavaScript classes.
+   * How to implement CSS Grid for responsive property layouts.
+   * Using the Intersection Observer API for performance-friendly scroll animations.
+   * Creating a sticky navigation bar that detects scroll position.
+   * Handling mobile navigation states using JavaScript classes.
 
 ## 📂 Project Structure
 
