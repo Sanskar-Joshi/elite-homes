@@ -25,15 +25,10 @@ A modern, responsive, and interactive Real Estate website built to showcase luxu
 * **FontAwesome** (Icons)
 * **Google Fonts** (Poppins)
 
-## 📂 Project Structure
-
-```text
-/
-├── index.html      # Main HTML structure
-├── style.css       # Styling, Layouts, and Animations
-├── script.js       # Logic for Menu, Scroll Effects, and Counters
-├── favicon.png     # Website Icon
-└── README.md       # Project Documentation
+## 👤 Author
+**Sanskar Joshi**
+- [LinkedIn](https://www.linkedin.com/in/sanskar-joshi-417630358/)
+- [GitHub](https://github.com/sanskar-joshi/)
 
 ## 💡 Key Learnings
 While building this project, I learned:
@@ -46,10 +41,12 @@ Creating a sticky navigation bar that detects scroll position.
 
 Handling mobile navigation states using JavaScript classes.
 
-### 🔗 Live Demo
-Check out the live website here: https://sanskar-joshi.github.io/elite-homes/
+## 📂 Project Structure
 
-## 👤 Author
-**Sanskar Joshi**
-- [LinkedIn](https://www.linkedin.com/in/sanskar-joshi-417630358/)
-- [GitHub](https://github.com/sanskar-joshi/)
+```text
+/
+├── index.html      # Main HTML structure
+├── style.css       # Styling, Layouts, and Animations
+├── script.js       # Logic for Menu, Scroll Effects, and Counters
+├── favicon.png     # Website Icon
+└── README.md       # Project Documentation
